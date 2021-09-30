@@ -1,0 +1,16 @@
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\Ex_2_3.exe
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\Ex_2_3.deps.json
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\Ex_2_3.runtimeconfig.json
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\Ex_2_3.runtimeconfig.dev.json
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\Ex_2_3.dll
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\ref\Ex_2_3.dll
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\bin\Debug\net5.0\Ex_2_3.pdb
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.csproj.AssemblyReference.cache
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.AssemblyInfoInputs.cache
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.AssemblyInfo.cs
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.csproj.CoreCompileInputs.cache
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.dll
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\ref\Ex_2_3.dll
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.pdb
+C:\Users\ansis\Desktop\prog\C#\Ex_2\Ex_2_3\obj\Debug\net5.0\Ex_2_3.genruntimeconfig.cache
