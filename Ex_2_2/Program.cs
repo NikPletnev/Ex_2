@@ -9,28 +9,39 @@ namespace Ex_2_2
             Console.WriteLine("Здравствуйте! Введите два числа:");
             double X = Convert.ToDouble(Console.ReadLine());
             double Y = Convert.ToDouble(Console.ReadLine());
-            if (X > 0)
+            string result = "";
+            if(X == 0 || Y == 0)
+            {
+                if(X==0 && Y == 0)
+                {
+                    result = "Точка находится в центре координатой оси";
+                }else
+                {
+                    result = "Точка находится на координатой оси";
+                }
+            }else if (X > 0)
             {
                 if (Y > 0)
                 {
-                    Console.WriteLine($"Точка с координатами {X},{Y} пренаделжит первой четверти");
+                    result = $"Точка с координатами {X},{Y} пренаделжит первой четверти";
                 }
                 else
                 {
-                    Console.WriteLine($"Точка с координатами {X},{Y} пренаделжит четвертой четверти");
+                    result = $"Точка с координатами {X},{Y} пренаделжит четвертой четверти";
                 }
             }
             else
             {
                 if (Y > 0)
                 {
-                    Console.WriteLine($"Точка с координатами {X},{Y} пренаделжит второй четверти");
+                    result = $"Точка с координатами {X},{Y} пренаделжит второй четверти";
                 }
-                else
+                else if (X != 0 && Y !=0)
                 {
-                    Console.WriteLine($"Точка с координатами {X},{Y} пренаделжит третьей четверти");
+                    result = $"Точка с координатами {X},{Y} пренаделжит третьей четверти";
                 }
             }
+            Console.WriteLine(result);
         }
     }
 }
